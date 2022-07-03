@@ -1,0 +1,51 @@
+
+            
+  .bluesky{
+    background-color: #02B0EB;
+    font-size: 2rem;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    margin: auto;
+  }
+
+  .green{
+    background-color: #75BC22;
+    font-size: 2rem;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    margin: auto;
+  }
+
+.orange{
+  background-color: #F6A001;
+  font-size: 2rem;
+  color:white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 50%;
+  margin: auto;
+}
+
+.orangedark{
+  background-color: #ED7002;
+  font-size: 2rem;
+  color:white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 50%;
+  margin: auto;
+}
+
+.red{
+  background-color: #E40515;
+  font-size: 2rem;
+  color:white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 50%;
+  margin: auto;
+}
